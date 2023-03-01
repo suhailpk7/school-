@@ -1,0 +1,147 @@
+body{
+    margin: 0;
+   
+}
+.nevbar{
+    width: 100%;
+    height: 120px;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: stretch;
+}
+.smlhead h3{
+padding-top: 1px;
+text-align: center;
+font-size: 1rem;
+}
+.sclname h2{
+    font-size: 3rem;
+    text-align: center;
+    color: #AE8341;
+   margin-top: -12px;
+}
+.cert p{
+  font-size: 1rem;
+  text-align: center;
+  color: #424141;
+  margin-top: -40px;
+}
+.sclogo img{
+width: 100px;
+height: auto;
+margin-left: 100px;
+margin-top: -116px;
+float: left;
+
+}
+.secnev{
+    width: 100%;
+    float: left;
+    height: 50px;
+    background-color: rgb(17,24,39);
+   
+}
+
+.headbar{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    padding-top: 14.5px;
+    font-size: 18px;
+}
+.head{
+    text-decoration: none;
+    color: white;
+    transition: font-size 0.5s;
+}
+#abhead{
+    margin-top: 99px;
+    float: left;
+    margin-left: 40px;
+}
+.ctimg img{
+    width: 100%;
+    height: 500px;
+}
+#abhead1{
+    margin-top: 99px;
+    float: left;
+    margin-left: 150px;
+}
+.form p{
+    font-weight: 500;
+    font-size: 20px;
+}
+.text input{
+    width: 70%;
+    height: 25px;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+.textm input{
+    width: 70%;
+    height: 50px;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+.submit input{
+    width:  30%;
+    height: 30px;
+    color: white;
+    background-color: green;
+    border: none;
+    margin-top: 25px;
+    border-radius: 4px;
+}
+.footr{
+    background-color: black;
+    width: 100%;
+    height: 250px;
+}
+.footr img{
+width: 60px;
+height: 40px;
+margin-left: 29px;
+margin-top: 30px;
+}
+.footr p{
+    color: #D1D5DB;
+    margin-left: 95px;
+    font-size: 19px;
+    margin-top: -23px;
+    font-weight: 500;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif  ;
+}
+.ftrcbs pre{
+    color:#D1D5DB ;
+}
+.link p{
+    color: #D1D5DB;
+    margin-left: 570px;
+    margin-top: -98px;
+}
+.fstlink a{
+    text-decoration: none;
+    color: #D1D5DB;
+}
+.fstlink{
+    padding-top: 90px;
+}
+.contct p{
+    color: #D1D5DB;
+    margin-left: 866px;
+    margin-top: -173px;
+}
+.contct pre{
+    color: #D1D5DB;
+    margin-top: -5px;
+    margin-left: 870px;
+} 
+.mainback{
+    background-color: #e3cca9;
+    width: 100%;
+    height: 660px;
+   margin-top: -4px;
+}
